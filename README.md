@@ -43,4 +43,6 @@ Seleniumによる、Chrome、Edge、Firefoxでの自動テストを実現。
 ## テスト動画
 Seleniumを使用してUIテストを実行している。
 
-https://github.com/b-forme-tomonari/EC_System/assets/106940016/3b874147-d6c9-409f-8741-4b2926e0a345
+https://github.com/Kazuki-Tomonari/EC_System/assets/28209317/c0c8b3f7-615a-428f-9ec7-7c5c491c2ecb
+
+
