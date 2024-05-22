@@ -47,4 +47,3 @@ Seleniumを使用してUIテストを実行している。
 
 https://github.com/Kazuki-Tomonari/EC_System/assets/28209317/c0c8b3f7-615a-428f-9ec7-7c5c491c2ecb
 
-
